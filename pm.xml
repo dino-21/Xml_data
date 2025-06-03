@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<roots>
-	<root>
+<sensorList>
+	<row>
 		<dev_id>B4E62D460C9E</dev_id>
 		<name>수로왕릉입구 광장 가로등주</name>
 		<loc>경남 김해시 서상동 306-24</loc>
@@ -13,8 +13,8 @@
 		<timestamp>2025-06-02 17:11:43.745</timestamp>
 		<company_id>bcdbe35acf834d64bf4e7ed5fdf1cf94</company_id>
 		<company_name>미세먼지 센서</company_name>
-	</root>
-	<root>
+	</row>
+	<row>
 		<dev_id>B4E62D460CF8</dev_id>
 		<name>대성동 고분군 내부공원등</name>
 		<loc>경남 김해시 봉황동 453-1</loc>
@@ -27,8 +27,8 @@
 		<timestamp>2025-06-02 17:11:43.694</timestamp>
 		<company_id>bcdbe35acf834d64bf4e7ed5fdf1cf94</company_id>
 		<company_name>미세먼지 센서</company_name>
-	</root>
-	<root>
+	</row>
+	<row>
 		<dev_id>B4E62D460D18</dev_id>
 		<name>해반천 스마트그림자</name>
 		<loc>경남 김해시 내동 1147</loc>
@@ -41,8 +41,8 @@
 		<timestamp>2025-06-02 17:11:43.883</timestamp>
 		<company_id>bcdbe35acf834d64bf4e7ed5fdf1cf94</company_id>
 		<company_name>미세먼지 센서</company_name>
-	</root>
-	<root>
+	</row>
+	<row>
 		<dev_id>B4E62D4655CE</dev_id>
 		<name>연지공원 내 시계탑CCTV</name>
 		<loc>경남 김해시 내동 115</loc>
@@ -55,8 +55,8 @@
 		<timestamp>2025-06-02 17:11:42.656</timestamp>
 		<company_id>bcdbe35acf834d64bf4e7ed5fdf1cf94</company_id>
 		<company_name>미세먼지 센서</company_name>
-	</root>
-	<root>
+	</row>
+	<row>
 		<dev_id>CC50E30D9E39</dev_id>
 		<name>수로왕릉역 타고가야</name>
 		<loc>경남 김해시 외동 1295</loc>
@@ -69,8 +69,8 @@
 		<timestamp>2025-06-02 17:11:43.287</timestamp>
 		<company_id>bcdbe35acf834d64bf4e7ed5fdf1cf94</company_id>
 		<company_name>미세먼지 센서</company_name>
-	</root>
-	<root>
+	</row>
+	<row>
 		<dev_id>CC50E33A4B69</dev_id>
 		<name>공주공원 내부방범CCTV</name>
 		<loc>경남 김해시 내외로 95번길 4</loc>
@@ -83,8 +83,8 @@
 		<timestamp>2025-06-02 17:11:43.742</timestamp>
 		<company_id>bcdbe35acf834d64bf4e7ed5fdf1cf94</company_id>
 		<company_name>미세먼지 센서</company_name>
-	</root>
-	<root>
+	</row>
+	<row>
 		<dev_id>CC50E33A4B70</dev_id>
 		<name>봉황동 유적공원 배수펌프장 앞</name>
 		<loc>경남 김해시 봉황동 469-2</loc>
@@ -97,8 +97,8 @@
 		<timestamp>2025-06-02 17:11:43.810</timestamp>
 		<company_id>bcdbe35acf834d64bf4e7ed5fdf1cf94</company_id>
 		<company_name>미세먼지 센서</company_name>
-	</root>
-	<root>
+	</row>
+	<row>
 		<dev_id>CC50E33A4B72</dev_id>
 		<name>봉황역 타고가야 함체</name>
 		<loc>경남 김해시 봉황동 122-16</loc>
@@ -111,8 +111,8 @@
 		<timestamp>2025-06-02 17:11:43.789</timestamp>
 		<company_id>bcdbe35acf834d64bf4e7ed5fdf1cf94</company_id>
 		<company_name>미세먼지 센서</company_name>
-	</root>
-	<root>
+	</row>
+	<row>
 		<dev_id>CC50E33A4B79</dev_id>
 		<name>NH농협은행 신호등주</name>
 		<loc>경남 김해시 내외중앙로 106</loc>
@@ -125,8 +125,8 @@
 		<timestamp>2025-06-02 17:11:42.983</timestamp>
 		<company_id>bcdbe35acf834d64bf4e7ed5fdf1cf94</company_id>
 		<company_name>미세먼지 센서</company_name>
-	</root>
-	<root>
+	</row>
+	<row>
 		<dev_id>CC50E33A4B7C</dev_id>
 		<name>구봉초등학교 도로안내판CCTV</name>
 		<loc>경남 김해시 대성동 477</loc>
@@ -139,201 +139,5 @@
 		<timestamp>2025-06-02 17:11:43.250</timestamp>
 		<company_id>bcdbe35acf834d64bf4e7ed5fdf1cf94</company_id>
 		<company_name>미세먼지 센서</company_name>
-	</root>
-	<root>
-		<dev_id>CC50E33A4B7E</dev_id>
-		<name>연지공원역 주변</name>
-		<loc>경상남도 김해시 구산동 1072-16</loc>
-		<coordx>128.86997060741</coordx>
-		<coordy>35.25057973907</coordy>
-		<ison>true</ison>
-		<pm10_after>68</pm10_after>
-		<pm25_after>39</pm25_after>
-		<state>0</state>
-		<timestamp>2025-06-02 17:11:43.498</timestamp>
-		<company_id>bcdbe35acf834d64bf4e7ed5fdf1cf94</company_id>
-		<company_name>미세먼지 센서</company_name>
-	</root>
-	<root>
-		<dev_id>CC50E33A4B9F</dev_id>
-		<name>이마트주차장 출구 주정차 CCTV</name>
-		<loc>경남 김해시 김해대로 2232</loc>
-		<coordx>128.872148</coordx>
-		<coordy>35.229131</coordy>
-		<ison>true</ison>
-		<pm10_after>48</pm10_after>
-		<pm25_after>30</pm25_after>
-		<state>0</state>
-		<timestamp>2025-06-02 17:11:43.593</timestamp>
-		<company_id>bcdbe35acf834d64bf4e7ed5fdf1cf94</company_id>
-		<company_name>미세먼지 센서</company_name>
-	</root>
-	<root>
-		<dev_id>CC50E33A4BE0</dev_id>
-		<name>봉황동 유적주차장 입구</name>
-		<loc>경남 김해시 봉황동 349-10</loc>
-		<coordx>128.8747674</coordx>
-		<coordy>35.2323718</coordy>
-		<ison>true</ison>
-		<pm10_after>45</pm10_after>
-		<pm25_after>26</pm25_after>
-		<state>0</state>
-		<timestamp>2025-06-02 17:11:43.537</timestamp>
-		<company_id>bcdbe35acf834d64bf4e7ed5fdf1cf94</company_id>
-		<company_name>미세먼지 센서</company_name>
-	</root>
-	<root>
-		<dev_id>CC50E33A4BE6</dev_id>
-		<name>새마을회관</name>
-		<loc>경상남도 김해시 한림면 퇴래리 174</loc>
-		<coordx>128.79641408313</coordx>
-		<coordy>35.30139081569</coordy>
-		<ison>true</ison>
-		<pm10_after>55</pm10_after>
-		<pm25_after>34</pm25_after>
-		<state>0</state>
-		<timestamp>2025-06-02 17:11:43.739</timestamp>
-		<company_id>bcdbe35acf834d64bf4e7ed5fdf1cf94</company_id>
-		<company_name>미세먼지 센서</company_name>
-	</root>
-	<root>
-		<dev_id>CC50E33A4BFB</dev_id>
-		<name>수로왕비릉 주차장 타고가야 디자인폴</name>
-		<loc>경남 김해시 구산동 93-2</loc>
-		<coordx>128.8777239</coordx>
-		<coordy>35.2421915</coordy>
-		<ison>true</ison>
-		<pm10_after>74</pm10_after>
-		<pm25_after>45</pm25_after>
-		<state>0</state>
-		<timestamp>2025-06-02 17:11:43.148</timestamp>
-		<company_id>bcdbe35acf834d64bf4e7ed5fdf1cf94</company_id>
-		<company_name>미세먼지 센서</company_name>
-	</root>
-	<root>
-		<dev_id>CC50E33A4C03</dev_id>
-		<name>신기마을회관</name>
-		<loc>경상남도 김해시 한림면 퇴래리 603</loc>
-		<coordx>128.78413441994</coordx>
-		<coordy>35.29871813695</coordy>
-		<ison>true</ison>
-		<pm10_after>51</pm10_after>
-		<pm25_after>32</pm25_after>
-		<state>0</state>
-		<timestamp>2025-06-02 17:11:43.559</timestamp>
-		<company_id>bcdbe35acf834d64bf4e7ed5fdf1cf94</company_id>
-		<company_name>미세먼지 센서</company_name>
-	</root>
-	<root>
-		<dev_id>CC50E33A4C23</dev_id>
-		<name>소업마을회관</name>
-		<loc>경상남도 김해시 한림면 퇴래리 1181-6</loc>
-		<coordx>128.79167640035</coordx>
-		<coordy>35.29224504267</coordy>
-		<ison>true</ison>
-		<pm10_after>21</pm10_after>
-		<pm25_after>6</pm25_after>
-		<state>0</state>
-		<timestamp>2025-06-02 17:11:43.353</timestamp>
-		<company_id>bcdbe35acf834d64bf4e7ed5fdf1cf94</company_id>
-		<company_name>미세먼지 센서</company_name>
-	</root>
-	<root>
-		<dev_id>CC50E33A4C36</dev_id>
-		<name>한국1차 사거리 맥도날드 주정차 CCTV</name>
-		<loc>경남 김해시 외동 1290</loc>
-		<coordx>128.8651309</coordx>
-		<coordy>35.2323831</coordy>
-		<ison>true</ison>
-		<pm10_after>48</pm10_after>
-		<pm25_after>25</pm25_after>
-		<state>0</state>
-		<timestamp>2025-06-02 17:11:44.291</timestamp>
-		<company_id>bcdbe35acf834d64bf4e7ed5fdf1cf94</company_id>
-		<company_name>미세먼지 센서</company_name>
-	</root>
-	<root>
-		<dev_id>CC50E33A4C39</dev_id>
-		<name>거북공원 내부방범CCTV</name>
-		<loc>경남 김해시 내외로77번길 17</loc>
-		<coordx>128.8652333</coordx>
-		<coordy>35.2361352</coordy>
-		<ison>true</ison>
-		<pm10_after>51</pm10_after>
-		<pm25_after>31</pm25_after>
-		<state>0</state>
-		<timestamp>2025-06-02 17:11:42.995</timestamp>
-		<company_id>bcdbe35acf834d64bf4e7ed5fdf1cf94</company_id>
-		<company_name>미세먼지 센서</company_name>
-	</root>
-	<root>
-		<dev_id>CC50E33A4C47</dev_id>
-		<name>대성동 고분박물관 타고가야</name>
-		<loc>경남 김해시 가야의길 126</loc>
-		<coordx>128.8737462</coordx>
-		<coordy>35.2374065</coordy>
-		<ison>true</ison>
-		<pm10_after>48</pm10_after>
-		<pm25_after>24</pm25_after>
-		<state>0</state>
-		<timestamp>2025-06-02 17:11:43.233</timestamp>
-		<company_id>bcdbe35acf834d64bf4e7ed5fdf1cf94</company_id>
-		<company_name>미세먼지 센서</company_name>
-	</root>
-	<root>
-		<dev_id>CC50E33A4C49</dev_id>
-		<name>수릉원 내부 방범용CCTV</name>
-		<loc>경남 김해시 봉황동 496</loc>
-		<coordx>128.8750718</coordx>
-		<coordy>35.2359812</coordy>
-		<ison>true</ison>
-		<pm10_after>64</pm10_after>
-		<pm25_after>34</pm25_after>
-		<state>0</state>
-		<timestamp>2025-06-02 17:11:43.575</timestamp>
-		<company_id>bcdbe35acf834d64bf4e7ed5fdf1cf94</company_id>
-		<company_name>미세먼지 센서</company_name>
-	</root>
-	<root>
-		<dev_id>CC50E33A4C55</dev_id>
-		<name>새마을회관</name>
-		<loc>경상남도 김해시 한림면 퇴래리 1287</loc>
-		<coordx>128.80287660459</coordx>
-		<coordy>35.29830538593</coordy>
-		<ison>true</ison>
-		<pm10_after>53</pm10_after>
-		<pm25_after>29</pm25_after>
-		<state>0</state>
-		<timestamp>2025-06-02 17:11:43.116</timestamp>
-		<company_id>bcdbe35acf834d64bf4e7ed5fdf1cf94</company_id>
-		<company_name>미세먼지 센서</company_name>
-	</root>
-	<root>
-		<dev_id>CC50E33A4C5D</dev_id>
-		<name>김해박물관 맞은편 무대</name>
-		<loc>경남 김해시 가야의길 179</loc>
-		<coordx>128.871752</coordx>
-		<coordy>35.2435064</coordy>
-		<ison>true</ison>
-		<pm10_after>52</pm10_after>
-		<pm25_after>32</pm25_after>
-		<state>0</state>
-		<timestamp>2025-06-02 17:11:42.961</timestamp>
-		<company_id>bcdbe35acf834d64bf4e7ed5fdf1cf94</company_id>
-		<company_name>미세먼지 센서</company_name>
-	</root>
-	<root>
-		<dev_id>CC50E33A4C60</dev_id>
-		<name>여객터미널 입구 버스정류장</name>
-		<loc>경남 김해시 외동 1264-2</loc>
-		<coordx>128.8720354</coordx>
-		<coordy>35.2292129</coordy>
-		<ison>true</ison>
-		<pm10_after>61</pm10_after>
-		<pm25_after>35</pm25_after>
-		<state>0</state>
-		<timestamp>2025-06-02 17:11:43.442</timestamp>
-		<company_id>bcdbe35acf834d64bf4e7ed5fdf1cf94</company_id>
-		<company_name>미세먼지 센서</company_name>
-	</root>
-</roots>
+	</row>
+</sensorList>
