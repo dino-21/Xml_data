@@ -3,7 +3,7 @@
 ### Json  [  {}, {}, {}  ] 하듯이 xml 파일도 정리해줘야 함  ### 
 
 
-
+#######
 JSON
 
 [ {}, {},{} ]
@@ -16,11 +16,7 @@ JSON
 
 ]
 
-XML로 변환
-
-루트 태그가 
-
-감싸야 함
+XML로 변환 - 루트 태그가  감싸야 함
 
 <?xml version="1.0" encoding="UTF-8"?>
 
@@ -44,26 +40,26 @@ XML로 변환
 
 </SebcPleasureGroundKor1>
 
+
+
+
+
+
+
 xml 
 
-​
-
 <?xml version="1.0" encoding="UTF-8"?>
-
 <SebcPleasureGroundKor1>
-
 <row>
 
-​
 
 </row>
-
 <row>
 
-​
-
 </row>
-
-​
 
 </SebcPleasureGroundKor1>
+
+
+
+#######
